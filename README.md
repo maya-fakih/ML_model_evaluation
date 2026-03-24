@@ -1,8 +1,7 @@
-# 🤖 ML Classifier Comparison
+# ML Classifier Comparison
 
 > Compare **Decision Tree** and **SVM** classifiers across multiple datasets and train/test splits — clean OOP design, stratified sampling, automatic label encoding, and self-updating visual assets.
 
-![Class Architecture](assets/architecture.png)
 
 ---
 
